@@ -240,7 +240,7 @@
     "gulp-remote-src": "^0.4.3",
     "tslint": "^3.14.0",
     "typescript": "^4.1.0-dev.20200824",
-    "@vscode/vsce": "^2.18.0",
+    "@vscode/vsce": "^2.28.0",
     "@types/uuid": "^8.3.0"
   },
   "repository": {
