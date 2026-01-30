@@ -539,7 +539,7 @@
     "@types/sinon": "^9.0.8",
     "@types/yamljs": "0.2.30",
     "@microsoft/azdata-test": "^3.0.4",
-    "mocha": "^9.2.2",
+    "mocha": "^10.6.0",
     "should": "^13.2.3",
     "sinon": "^9.2.0",
     "typemoq": "^2.1.0",
