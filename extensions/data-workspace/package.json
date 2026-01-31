@@ -185,7 +185,7 @@
   "devDependencies": {
     "@types/mocha": "^7.0.2",
     "@types/sinon": "^9.0.4",
-    "mocha": "^9.2.2",
+    "mocha": "^10.6.0",
     "should": "^13.2.3",
     "sinon": "^9.0.2",
     "typemoq": "^2.1.0",
